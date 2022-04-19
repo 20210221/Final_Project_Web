@@ -1,0 +1,13 @@
+REACT_APP_API_Key = "AIzaSyCXxJ1CUG4b9WC6eN0pfxeWYJ_KW7xyxec"
+
+REACT_APP_API_authDomain = "final-proyect-web-30319.firebaseapp.com"
+
+REACT_APP_API_projectId = "final-proyect-web-30319"
+
+REACT_APP_API_storageBucket = "final-proyect-web-30319.appspot.com"
+
+REACT_APP_API_messagingSenderId = "432859557661"
+
+REACT_APP_API_appId = "1:432859557661:web:acd59f9529894f672dbbf4"
+
+REACT_APP_API_measurementId = "G-T2H3504Q9K"
